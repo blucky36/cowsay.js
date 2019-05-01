@@ -1,0 +1,15 @@
+{
+  "name": "cowsay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recreateCowsay.js",
+  "scripts": {
+    "test": "node recreateCowsay.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
